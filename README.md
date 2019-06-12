@@ -40,7 +40,7 @@ O app deverá ser desenvolvido para a plataforma **Android ou iOS**
 - Teste unitários *(OPCIONAL)*
 
 ### Processo de submissão
-- O link do repositóro #E QUALQUER DÚVIDA# devem ser enviados para os e-mails: 
+- O link do repositóro **E QUALQUER DÚVIDA** devem ser enviados para os e-mails: 
     - berg.torres@csktech.com.br
     - bruna@csktech.com.br
  
