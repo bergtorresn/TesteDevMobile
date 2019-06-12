@@ -17,9 +17,10 @@ Você deverá desenvolver uma aplicação para visualizar uma lista de filmes, s
 
 ### Requisitos técnicos
 
-O app deverá ser desenvolvido para a plataforma **Android**
+O app deverá ser desenvolvido para a plataforma **Android ou iOS**
 
-- O código deverá ser desenvolvido utilizando **Kotlin**.
+- Caso opte por **Android** deverá utilizar **Kotlin e MVVM**.
+- Caso opte por **iOS** deverá utilizar **Swift, ViewCode e MVVM**.
 - Utilizar o **git** para **versionamento do código**.
 - **Consulta REST** do themoviedb para obtenção dos dados.
 - **Persistência** dos dados (Persistir favoritos).
@@ -34,13 +35,13 @@ O app deverá ser desenvolvido para a plataforma **Android**
 
 ### Critérios de Avaliação
 - Organização do código
-- Arquitetura utilizada *(ABERTO)*
 - Usabilidade
 - Criatividade no layout
 - Teste unitários *(OPCIONAL)*
 
 ### Processo de submissão
-- O link do repositóro deve ser enviado para os e-mails: 
+- O link do repositóro #E QUALQUER DÚVIDA# devem ser enviados para os e-mails: 
     - berg.torres@csktech.com.br
-
+    - bruna@csktech.com.br
+ 
 ## Boa sorte!
