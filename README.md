@@ -17,7 +17,7 @@ Você deverá desenvolver uma aplicação para visualizar uma lista de filmes, s
 
 ### Requisitos técnicos
 
-O app deverá ser desenvolvido para a plataforma **Android ou iOS**
+O app deverá ser desenvolvido para a plataforma **Android**
 
 - O código deverá ser desenvolvido utilizando **Kotlin**.
 - Utilizar o **git** para **versionamento do código**.
